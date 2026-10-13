@@ -1,178 +1,148 @@
 <div align="center">
 
-# 👋 Hey, I'm Shivam Sonawane!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a3d,100:ff2d95&height=200&section=header&text=Shivam%20Sonawane&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descSize=18&descAlignY=60" width="100%" alt="Header"/>
 
-### 💻 Full Stack Developer | Java • Spring Boot • React • MERN
+<a href="https://github.com/Shivamds143"><img src="https://img.shields.io/badge/GitHub-ff2d95?style=for-the-badge&logo=github&logoColor=white&labelColor=2a0a3d" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shivamsonawane2005/"><img src="https://img.shields.io/badge/LinkedIn-ff2d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a0a3d" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/Mr.Shivam_2005/"><img src="https://img.shields.io/badge/Instagram-ff2d95?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2a0a3d" alt="Instagram"/></a>
+<a href="https://sppucalc.vercel.app/"><img src="https://img.shields.io/badge/SPPUCalc-ff2d95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2a0a3d" alt="SPPUCalc"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+Developer;React+%7C+JavaScript+Developer;Building+Real-World+Projects;Always+Learning+%26+Growing!" alt="Typing SVG" />
+<br/><br/>
 
-<p>
-  <a href="https://github.com/Shivamds143">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shivamsonawane2005/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/Mr.Shivam_2005/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Shivamds143&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API;React+%7C+JavaScript;Building+Real-World+Projects;Always+Learning+%26+Growing!" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
+<table align="center">
+<tr>
+<td width="55%" valign="middle">
+
+> ### 💬 "Nice, you found my profile!"
+> Hi, I'm **Shivam** 👋
+> I build web apps with **Java, Spring Boot and React**.
+> I live in **Nashik, India** 📍
+> Scroll down and see what I make. 🚀
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://github.com/Shivamds143.png" width="200" alt="Shivam Sonawane"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## ✨ Explore My World ✨
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 My Projects
+Real projects I built: CRM system, task manager, garage locator and more.
+
+<img src="https://img.shields.io/badge/View-ff2d95?style=for-the-badge&labelColor=2a0a3d" alt="View"/>
+
+**Financial CRM** • **To-Do Manager** • **Smart Garage Locator** • **SPPUCalc**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 My Skills
+Java, Spring Boot, React, MySQL, MongoDB and more tools I use every day.
+
+<img src="https://img.shields.io/badge/Study-ff2d95?style=for-the-badge&labelColor=2a0a3d" alt="Study"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,mysql,mongodb,git&theme=dark" alt="Skills"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Learning Now
+Advanced Java, Spring Security, React, MongoDB, AWS and AI in web apps.
+
+<img src="https://img.shields.io/badge/Learn-ff2d95?style=for-the-badge&labelColor=2a0a3d" alt="Learn"/>
+
+☕ Java • 🔐 Security • ⚛️ React • ☁️ AWS
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Let's Grow Together
+Want to work on Java, React or open-source projects? Talk to me!
+
+<img src="https://img.shields.io/badge/Grow-ff2d95?style=for-the-badge&labelColor=2a0a3d" alt="Grow"/>
+
+[LinkedIn](https://www.linkedin.com/in/shivamsonawane2005/) • [Instagram](https://www.instagram.com/Mr.Shivam_2005/)
+
+</td>
+</tr>
+</table>
+
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
 🎓 B.Sc. Computer Science Graduate | M.Sc. Computer Science Student
 
-💻 Passionate about building scalable web applications and backend systems.
-
-- 🔭 Working on real-world full-stack development projects.
-- 🌱 Currently improving my skills in Spring Boot, React, MongoDB and cloud deployment.
-- 🛠️ Experienced with REST APIs, database integration and responsive web development.
-- 🤝 Interested in collaborating on Java, React and open-source projects.
-- 🎯 Goal: Become a skilled Full Stack Developer and build impactful software.
-- 📍 Based in Nashik, Maharashtra, India.
-
----
-
-## 🧰 Tech Stack & Skills
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python" alt="Java JavaScript Python"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" alt="Spring Hibernate Node.js Express"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" alt="HTML CSS Bootstrap React Next.js"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="MySQL MongoDB Supabase"/>
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,maven,vercel" alt="Development Tools"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivamds143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Shivamds143&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamds143&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+🎯 Goal: Become a skilled Full Stack Developer and build useful software.
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivamds143&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 💼 Featured Projects
 
-### 1. 💰 Financial CRM & Reception Management System
-
-A role-based CRM application designed to manage customer records, inquiries, appointments, follow-ups and employee attendance.
-
-**Tech Stack:** Java 21, Spring Boot, Spring Security, Hibernate, MySQL, JSP, Maven
-
-🔗 [View Project Repository](https://github.com/Shivamds143/financial-crm)
-
-### 2. ✅ To-Do Task Manager
-
-A task management application designed to organize daily activities, track progress and improve productivity.
-
-**Tech Stack:** Java / JavaScript / React — update according to your actual implementation.
-
-🔗 [View Project Repository](https://github.com/Shivamds143/todo-task-manager)
-
-### 3. 🚗 Smart Garage Locator
-
-A web application concept for locating nearby garages, viewing locations on a map and managing garage-related services.
-
-**Tech Stack:** Python, Flask, Maps API, HTML, CSS, JavaScript
-
-🔗 [View Project Repository](https://github.com/Shivamds143/smart-garage-locator)
-
-### 4. 🎓 SPPUCalc
-
-An academic calculation tool for students, including CGPA-to-percentage conversion.
-
-**Tech Stack:** Web Technologies
-
-🌐 [Visit Live Project](https://sppucalc.vercel.app/)
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamds143&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%"/>
-
 </div>
 
----
-
-## 🎯 Currently Learning
-
-- ☕ Advanced Java & Spring Boot
-- 🔐 Spring Security & REST API best practices
-- ⚛️ React.js & modern full-stack development
-- 🍃 MongoDB & database design
-- ☁️ AWS, CI/CD & application deployment
-- 🤖 AI integration in web applications
+| Project | What it does | Tech |
+|---|---|---|
+| 💰 [**Financial CRM**](https://github.com/Shivamds143/financial-crm) | Manage customers, inquiries, appointments, follow-ups and attendance | Java 21, Spring Boot, Spring Security, Hibernate, MySQL, JSP |
+| ✅ [**To-Do Task Manager**](https://github.com/Shivamds143/todo-task-manager) | Plan daily tasks and track progress | *(add your tech here)* |
+| 🚗 [**Smart Garage Locator**](https://github.com/Shivamds143/smart-garage-locator) | Find nearby garages on a map | Python, Flask, Maps API, HTML, CSS, JS |
+| 🎓 [**SPPUCalc**](https://sppucalc.vercel.app/) | CGPA to percentage calculator for students | Web Technologies |
 
 ---
-
-## 🤝 Let's Connect!
-
-I'm always open to connecting with developers, collaborating on projects and exploring new opportunities.
-
-<p align="center">
-  <a href="https://github.com/Shivamds143">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shivamsonawane2005/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/Mr.Shivam_2005/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
 <div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivamds143&show_icons=true&hide_border=false&bg_color=1a0b2e&title_color=ff2d95&text_color=ffffff&icon_color=ff2d95&border_color=ff2d95&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shivamds143&background=1A0B2E&ring=FF2D95&fire=FF2D95&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF2D95&sideLabels=FF2D95&dates=FFFFFF&stroke=FF2D95&border=FF2D95" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamds143&layout=compact&langs_count=8&bg_color=1a0b2e&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shivamds143&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamds143&bg_color=1a0b2e&color=ff2d95&line=ff2d95&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shivamds143&label=PROFILE+VIEWS&color=ff2d95&style=for-the-badge" alt="Profile Views"/>
 
 ### 💡 "Code. Learn. Build. Repeat."
 
 ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d95,100:2a0a3d&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
