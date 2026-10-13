@@ -5,6 +5,7 @@
 <a href="https://github.com/Shivamds143"><img src="https://img.shields.io/badge/GitHub-ff2d95?style=for-the-badge&logo=github&logoColor=white&labelColor=2a0a3d" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shivamsonawane2005/"><img src="https://img.shields.io/badge/LinkedIn-ff2d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a0a3d" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/Mr.Shivam_2005/"><img src="https://img.shields.io/badge/Instagram-ff2d95?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2a0a3d" alt="Instagram"/></a>
+<a href="https://shivamgpt-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff2d95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2a0a3d" alt="Portfolio"/></a>
 <a href="https://sppucalc.vercel.app/"><img src="https://img.shields.io/badge/SPPUCalc-ff2d95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2a0a3d" alt="SPPUCalc"/></a>
 
 <br/><br/>
@@ -83,7 +84,7 @@ Want to work on Java, React or open-source projects? Talk to me!
 
 <img src="https://img.shields.io/badge/Grow-ff2d95?style=for-the-badge&labelColor=2a0a3d" alt="Grow"/>
 
-[LinkedIn](https://www.linkedin.com/in/shivamsonawane2005/) • [Instagram](https://www.instagram.com/Mr.Shivam_2005/)
+[Portfolio](https://shivamgpt-indol.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/shivamsonawane2005/) • [Instagram](https://www.instagram.com/Mr.Shivam_2005/)
 
 </td>
 </tr>
@@ -98,6 +99,22 @@ Want to work on Java, React or open-source projects? Talk to me!
 🎓 B.Sc. Computer Science Graduate | M.Sc. Computer Science Student
 
 🎯 Goal: Become a skilled Full Stack Developer and build useful software.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 My Portfolio Website
+
+See all my work, skills and projects in one place.
+
+<a href="https://shivamgpt-indol.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-ff2d95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2a0a3d" alt="Visit My Portfolio"/>
+</a>
+
+🔗 [shivamgpt-indol.vercel.app](https://shivamgpt-indol.vercel.app/)
 
 </div>
 
